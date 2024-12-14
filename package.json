@@ -6,7 +6,7 @@
   "type": "module",
   "author": {
     "name": "James Ingold",
-    "email": "jamesp.ingold@gmail.com"
+    "email": "hey@jamesingold.com"
   },
   "bin": {
     "tmuxinator-save": "./index.js"
