@@ -1,6 +1,6 @@
 # tmuxinator-save
 
-A CLI tool to save existingtmux sessions as tmuxinator configuration files.
+A CLI tool to save existing tmux sessions as tmuxinator configuration files.
 
 ## Installation
 
